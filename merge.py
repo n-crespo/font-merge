@@ -1,6 +1,7 @@
 import fontforge
 import os
 
+# change this as needed
 font_files = [
     "JetBrainsMonoNerdFont-Bold.ttf",
     "JetBrainsMonoNerdFont-BoldItalic.ttf",
